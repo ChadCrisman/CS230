@@ -10,7 +10,6 @@ body {
 img { 
     height: 150px;
     width: 150px;
-    image-orientation: center;
 }
 .column {
     float:left;
